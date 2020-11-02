@@ -1,0 +1,24 @@
+{
+  "name": "polka-hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@polkadot/api": "^2.5.1",
+    "yargs": "^16.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d030n/polka-hello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d030n/polka-hello/issues"
+  },
+  "homepage": "https://github.com/d030n/polka-hello#readme"
+}
